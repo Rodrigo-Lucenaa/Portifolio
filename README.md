@@ -3,5 +3,5 @@ Portifolio do desenvolvedor
 
 ## Tarefas
 
-O controle das taresas desse projeto será realizada no GitHub
+O controle das tarefas desse projeto será realizada no GitHub
 
