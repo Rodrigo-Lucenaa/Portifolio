@@ -1,4 +1,5 @@
-# Portfólio
+# Portfólio 
+
 Portfólio do desenvolvedor
 
 ## Tarefas
@@ -6,10 +7,11 @@ Portfólio do desenvolvedor
 O controle das tarefas desse projeto será realizada no GitHub
 
 ## Ícones
-📦 nova funcionalidade
-🆙 atualização
-🐞 correção de bug
-🏁 release
+
+-📦 nova funcionalidade
+-🆙 atualização
+-🐞 correção de bug
+-🏁 release
 
 
 
